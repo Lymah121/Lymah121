@@ -1,6 +1,6 @@
 # Hi, I'm Halimat 👋
 
-**Software Engineer** · M.S. Computer Science @ UT Permian Basin · Ex-Amazon SDE Intern
+· M.S. Computer Science @ UT Permian Basin · Ex-Amazon SDE Intern
 
 I build AI systems, full-stack applications, and tools that make complex technology accessible. Currently focused on AI education and explainable multi-agent systems.
 
